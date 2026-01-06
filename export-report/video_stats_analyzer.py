@@ -69,8 +69,6 @@ JSON 형식 요구사항
 3. invalid_files_*.csv         - 처리 실패한 파일 목록
 4. processed_folders.json      - 처리 완료된 폴더 추적 로그
 
-Author: [Your Name]
-License: MIT
 """
 
 import os
@@ -557,3 +555,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
