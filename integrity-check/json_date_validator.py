@@ -99,9 +99,6 @@ $ python json_date_validator.py \
     --path ./data \
     --field date \
     --year-range 2020 2025
-
-Author: [Your Name]
-License: MIT
 """
 
 import os
