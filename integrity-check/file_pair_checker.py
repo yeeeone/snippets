@@ -72,8 +72,6 @@ manifests/
   --output-dir DIR     결과 저장 디렉토리 (기본: pair_check_results)
   -h, --help           도움말 출력
 
-Author: [Your Name]
-License: MIT
 """
 
 import os
